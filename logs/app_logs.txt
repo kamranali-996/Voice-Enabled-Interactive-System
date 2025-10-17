@@ -1,0 +1,4 @@
+2025-10-17 16:43:59 - WEBSITE_OPENED: google (https://www.google.com)
+2025-10-17 16:44:11 - WEBSITE_OPENED: youtube (https://www.youtube.com)
+2025-10-17 16:47:14 - APP_OPENED: calculator
+2025-10-17 16:52:04 - WEBSITE_OPENED: instagram (https://www.instagram.com)

@@ -1,0 +1,46 @@
+{
+    "notepad": {
+        "path": "notepad.exe",
+        "process": "notepad.exe",
+        "type": "app"
+    },
+    "calculator": {
+        "path": "calc.exe",
+        "process": "Calculator.exe",
+        "type": "app"
+    },
+    "chrome": {
+        "path": "chrome.exe",
+        "process": "chrome.exe",
+        "type": "app"
+    },
+    "paint": {
+        "path": "mspaint.exe",
+        "process": "mspaint.exe",
+        "type": "app"
+    },
+    "youtube": {
+        "url": "https://www.youtube.com",
+        "type": "website"
+    },
+    "google": {
+        "url": "https://www.google.com",
+        "type": "website"
+    },
+    "gmail": {
+        "url": "https://www.gmail.com",
+        "type": "website"
+    },
+    "whatsapp": {
+        "url": "https://web.whatsapp.com",
+        "type": "website"
+    },
+    "facebook": {
+        "url": "https://www.facebook.com",
+        "type": "website"
+    },
+    "instagram": {
+        "url": "https://www.instagram.com",
+        "type": "website"
+    }
+}

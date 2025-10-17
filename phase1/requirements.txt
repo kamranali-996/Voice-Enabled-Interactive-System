@@ -1,0 +1,5 @@
+speechrecognition==3.10.0
+pyttsx3==2.90
+pywhatkit==5.4
+pandas==2.0.3
+PyAudio==0.2.14
